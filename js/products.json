@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "imagSrc": "philadelphia.jpg",
+        "title": "Филадельфия хит ролл",
+        "itemInBoX": 6,
+        "weight": 180,
+        "price": 300
+    },
+    {
+        "id": 2,
+        "imagSrc": "california-tempura.jpg",
+        "title": "Калтфорния темпура",
+        "itemInBoX": 6,
+        "weight": 205,
+        "price": 250
+    },
+    {
+        "id": 3,
+        "imagSrc": "zapech-californoa.jpg",
+        "title": "Запеченый ролл 'Калифорния'",
+        "itemInBoX": 6,
+        "weight": 182,
+        "price": 230
+    },
+    {
+        "id": 4,
+        "imagSrc": "philadelphia.jpg",
+        "title": "Филадельфия",
+        "itemInBoX": 6,
+        "weight": 230,
+        "price": 320
+    }
+]
